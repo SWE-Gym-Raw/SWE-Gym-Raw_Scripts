@@ -1,6 +1,6 @@
 # SWE-Gym-Raw Scripts
 
-SWE-Gym-Raw contains 368 repositories in total. This organization provides snapshots of 351 repositories, while the remaining 17 repositories are empty due to the presence of secret keys in their codebases.
+SWE-Gym-Raw contains 358 repositories in total. This organization provides snapshots of 341 repositories, while the remaining 17 repositories are empty due to the presence of secret keys in their codebases.
 
 <details>
 <summary>Click to view the 17 empty repository names</summary>
