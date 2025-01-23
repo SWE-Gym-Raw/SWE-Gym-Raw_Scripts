@@ -5,23 +5,23 @@ SWE-Gym-Raw contains 368 repositories in total. This organization provides snaps
 <details>
 <summary>Click to view the 17 empty repository names</summary>
 
-"PokemonGoF/PokemonGo-Bot",
-"PyGithub/PyGithub",
-"activeloopai/deeplake",
-"boto/boto",
-"canonical/snapcraft",
-"cloud-custodian/cloud-custodian",
-"dj-stripe/dj-stripe",
-"facebookresearch/fairseq",
-"getmoto/moto",
-"googleapis/google-auth-library-python",
-"hpcaitech/ColossalAI",
-"huggingface/datasets",
-"localstack/localstack",
-"mantl/mantl",
-"pallets/werkzeug",
-"python-discord/bot",
-"scrapy/scrapy"
+- PokemonGoF/PokemonGo-Bot
+- PyGithub/PyGithub
+- activeloopai/deeplake
+- boto/boto
+- canonical/snapcraft
+- cloud-custodian/cloud-custodian
+- dj-stripe/dj-stripe
+- facebookresearch/fairseq
+- getmoto/moto
+- googleapis/google-auth-library-python
+- hpcaitech/ColossalAI
+- huggingface/datasets
+- localstack/localstack
+- mantl/mantl
+- pallets/werkzeug
+- python-discord/bot
+- scrapy/scrapy
 </details>
 
 # Scripts
